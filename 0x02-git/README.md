@@ -1,4 +1,5 @@
 Some text with [a link][1] and
+# Heading 1
 another [link][2].
 
 [1]: http://example.com/ "Title"
